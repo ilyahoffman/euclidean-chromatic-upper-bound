@@ -83,7 +83,7 @@ The generator uses DejaVu fonts bundled with the pinned matplotlib version, rath
 
 ## Source and attribution
 
-Mathematical source: Ilya Hoffman's `HOFFMAN_EUCLIDEAN_CHROMATIC_UPPER_BOUND_PUBLICATION_R006_20260914.zip`, included unchanged in `reference/`.
+This project formalizes the paper [An Upper Bound of (3√3/2 + o(1))^d for the Chromatic Number of Euclidean Space](https://zenodo.org/records/22838283).
 
 Original archive SHA-256:
 
