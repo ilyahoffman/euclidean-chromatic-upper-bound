@@ -1,0 +1,14 @@
+PASS: unmodified source inventory
+PASS: unmodified compiler axiom reports
+PASS: proof hole in root import file
+PASS: custom axiom in root import file
+PASS: unsafe source declaration
+PASS: kernel-check bypass option
+PASS: native_decide proof shortcut
+PASS: proof hole in nested module
+PASS: nested comments do not create false proof-hole reports
+PASS: missing main theorem compiler report
+PASS: unexpected transitive axiom in compiler report
+PASS: compile the deliberately contaminated control module
+PASS: compiled inventory rejects an axiom outside namespace Hoffman
+PASS: 13 audit controls; all mutations stayed in temporary files.

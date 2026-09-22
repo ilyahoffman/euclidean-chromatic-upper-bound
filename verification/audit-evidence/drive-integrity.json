@@ -1,0 +1,10 @@
+{
+  "google_drive_file_id": "1BwZCk7tfB_JFhEx0BdonypxuAC8tJS17",
+  "metadata_name_matches": true,
+  "metadata_size_matches": true,
+  "bytes": 689355,
+  "remote_byte_comparison": "not_completed",
+  "stream_download_http_status": 403,
+  "stream_download_error_code": 1010,
+  "primary_audited_archive_sha256": "c281e3f150dd3f9a5cd25df502fb063f041e1126924970ca01ddb81aedef3589"
+}

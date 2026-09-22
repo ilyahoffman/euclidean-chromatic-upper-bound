@@ -1,0 +1,11 @@
+{
+  "archive": "/workspace/scratch/e1dc2376ac9d/f003_audit/downloads/HOFFMAN_R006_LEAN_F003_COMPLETE_MAIN_PROOF_20260921.zip",
+  "bytes": 689355,
+  "sha256": "c281e3f150dd3f9a5cd25df502fb063f041e1126924970ca01ddb81aedef3589",
+  "zip_crc_ok": true,
+  "files": 42,
+  "manifest_entries_verified": 41,
+  "unsafe_paths": false,
+  "duplicate_entries": false,
+  "restored_project": "/workspace/scratch/e1dc2376ac9d/f003_audit/restored/HOFFMAN_R006_LEAN_F003"
+}

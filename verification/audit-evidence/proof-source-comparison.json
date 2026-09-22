@@ -1,0 +1,111 @@
+{
+  "original_module_count": 21,
+  "unchanged_proof_code": true,
+  "modules": [
+    {
+      "file": "Hoffman/AsymptoticEstimate.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/Chromatic.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/CoveringEstimate.lean",
+      "byte_identical": false,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/ExclusionBall.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/ExclusionVolume.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/FiniteUpperBound.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/Geometry.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/Main.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/MomentPolynomial.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/Net.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/PeriodicCores.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/PeriodicCover.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/Planar.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/PoissonSeries.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/ProbabilityCover.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/RandomCover.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/RandomSurvival.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/Targets.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/Torus.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/TorusNet.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    },
+    {
+      "file": "Hoffman/TorusRandom.lean",
+      "byte_identical": true,
+      "code_excluding_comments_identical": true
+    }
+  ]
+}

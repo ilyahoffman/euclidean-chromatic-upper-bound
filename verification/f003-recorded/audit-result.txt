@@ -1,0 +1,4 @@
+PASS: 114 theorem axiom reports checked.
+No proof holes, custom axioms, unsafe declarations or native_decide in project modules.
+Only standard Lean foundations permitted: propext, Classical.choice, Quot.sound.
+PASS: the full MainUpperBound theorem and ordinary-chromatic-number limsup are audited.

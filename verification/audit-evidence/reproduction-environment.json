@@ -1,0 +1,12 @@
+{
+  "platform": "Linux x86_64",
+  "compiler_reused_from_pinned_distribution": true,
+  "compiler_binary_sha256": "92c3d35b5bfaa5e0fea413a775d504cf46cd95e1345df61c2274f76779e7e023",
+  "compiler_archive_sha256": "6fe3ce97a58f44e2b3567d455b994eacec5bfe9ae7774f2a573444480ba813fe",
+  "lean_version": "4.19.0",
+  "lean_commit": "6caaee842e94",
+  "fresh_dependency_source_clones": true,
+  "fresh_mathlib_cache_directory": "/workspace/scratch/e1dc2376ac9d/f003_audit/fresh-mathlib-cache",
+  "compiler_rebuilt_from_source": false,
+  "mathlib_rebuilt_entirely_from_source": false
+}

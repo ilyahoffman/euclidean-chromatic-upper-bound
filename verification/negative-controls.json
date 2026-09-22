@@ -1,0 +1,67 @@
+[
+  {
+    "test": "unmodified source inventory",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "test": "unmodified compiler axiom reports",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "test": "proof hole in root import file",
+    "passed": true,
+    "exit_code": 1
+  },
+  {
+    "test": "custom axiom in root import file",
+    "passed": true,
+    "exit_code": 1
+  },
+  {
+    "test": "unsafe source declaration",
+    "passed": true,
+    "exit_code": 1
+  },
+  {
+    "test": "kernel-check bypass option",
+    "passed": true,
+    "exit_code": 1
+  },
+  {
+    "test": "native_decide proof shortcut",
+    "passed": true,
+    "exit_code": 1
+  },
+  {
+    "test": "proof hole in nested module",
+    "passed": true,
+    "exit_code": 1
+  },
+  {
+    "test": "nested comments do not create false proof-hole reports",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "test": "missing main theorem compiler report",
+    "passed": true,
+    "exit_code": 1
+  },
+  {
+    "test": "unexpected transitive axiom in compiler report",
+    "passed": true,
+    "exit_code": 1
+  },
+  {
+    "test": "compile the deliberately contaminated control module",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "test": "compiled inventory rejects an axiom outside namespace Hoffman",
+    "passed": true,
+    "exit_code": 1
+  }
+]

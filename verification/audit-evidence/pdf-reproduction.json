@@ -1,0 +1,18 @@
+{
+  "F003_saved": "cc5af36ec8e22e19cdfb652bc672d1e8b0854f5566aa006038ac1a757c4c7c58",
+  "F003_regenerated": "cc5af36ec8e22e19cdfb652bc672d1e8b0854f5566aa006038ac1a757c4c7c58",
+  "F003_byte_identical": true,
+  "F004_first": "c1f376068b4e7700534c76ef081bd4a204b5362b44b5acb2a9e7eedfd2f80d20",
+  "F004_second": "c1f376068b4e7700534c76ef081bd4a204b5362b44b5acb2a9e7eedfd2f80d20",
+  "F004_byte_identical": true,
+  "runtime": {
+    "python": "3.12.14",
+    "reportlab": "4.4.9",
+    "matplotlib": "3.10.8",
+    "pypdf": "6.10.0"
+  },
+  "F004_final_first": "92a76f75a50f1869ec7bc83d2a98c06217121c67e2d4dd13e325657888aac1b0",
+  "F004_final_repeated": "92a76f75a50f1869ec7bc83d2a98c06217121c67e2d4dd13e325657888aac1b0",
+  "F004_final_byte_identical": true,
+  "F004_visual_pages_reviewed": 6
+}

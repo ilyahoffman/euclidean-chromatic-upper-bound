@@ -1,0 +1,4 @@
+# Optional: needed only to regenerate the explanatory PDF, not to verify Lean.
+reportlab==4.4.9
+matplotlib==3.10.8
+pypdf==6.10.0

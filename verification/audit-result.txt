@@ -1,0 +1,4 @@
+PASS: 116 theorem axiom reports checked.
+No proof holes, custom axioms, unsafe source declarations or native_decide in project proof sources.
+Only standard Lean foundations permitted: propext, Classical.choice, Quot.sound.
+PASS: legacy named-theorem reports; CompiledAudit.lean supplies the complete compiled inventory.

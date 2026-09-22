@@ -1,0 +1,158 @@
+Fetching 28 direct mathlib imports and their transitive dependencies.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:08 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:09 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:10 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:11 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:12 --:--:--     0
+
+  0     0    0     0    0     0      0      0 --:--:--  0:00:13 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:14 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:15 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:16 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:17 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:18 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:19 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:20 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+  0     0    0     0    0     0      0      0 --:--:--  0:00:21 --:--:--     0
+ 16 1075k   16  176k    0     0   7866      0  0:02:19  0:00:22  0:01:57 37375
+100 1075k  100 1075k    0     0  46796      0  0:00:23  0:00:23 --:--:--  242k
+
+installing leantar 0.1.15
+Attempting to download 2331 file(s)
+
+Downloaded: 1 file(s) [attempted 1/2331 = 0%]
+Downloaded: 3 file(s) [attempted 3/2331 = 0%]
+Downloaded: 6 file(s) [attempted 6/2331 = 0%]
+Downloaded: 8 file(s) [attempted 8/2331 = 0%]
+Downloaded: 10 file(s) [attempted 10/2331 = 0%]
+Downloaded: 13 file(s) [attempted 13/2331 = 0%]
+Downloaded: 15 file(s) [attempted 15/2331 = 0%]
+Downloaded: 17 file(s) [attempted 17/2331 = 0%]
+Downloaded: 20 file(s) [attempted 20/2331 = 0%]
+Downloaded: 22 file(s) [attempted 22/2331 = 0%]
+Downloaded: 24 file(s) [attempted 24/2331 = 1%]
+Downloaded: 27 file(s) [attempted 27/2331 = 1%]
+Downloaded: 29 file(s) [attempted 29/2331 = 1%]
+Downloaded: 31 file(s) [attempted 31/2331 = 1%]
+Downloaded: 34 file(s) [attempted 34/2331 = 1%]
+Downloaded: 36 file(s) [attempted 36/2331 = 1%]
+Downloaded: 38 file(s) [attempted 38/2331 = 1%]
+Downloaded: 41 file(s) [attempted 41/2331 = 1%]
+Downloaded: 43 file(s) [attempted 43/2331 = 1%]
+Downloaded: 45 file(s) [attempted 45/2331 = 1%]
+Downloaded: 48 file(s) [attempted 48/2331 = 2%]
+Downloaded: 50 file(s) [attempted 50/2331 = 2%]
+Downloaded: 52 file(s) [attempted 52/2331 = 2%]
+Downloaded: 55 file(s) [attempted 55/2331 = 2%]
+Downloaded: 57 file(s) [attempted 57/2331 = 2%]
+Downloaded: 59 file(s) [attempted 59/2331 = 2%]
+Downloaded: 62 file(s) [attempted 62/2331 = 2%]
+Downloaded: 64 file(s) [attempted 64/2331 = 2%]
+Downloaded: 66 file(s) [attempted 66/2331 = 2%]
+Downloaded: 69 file(s) [attempted 69/2331 = 2%]
+Downloaded: 71 file(s) [attempted 71/2331 = 3%]
+Downloaded: 73 file(s) [attempted 73/2331 = 3%]
+Downloaded: 76 file(s) [attempted 76/2331 = 3%]
+Downloaded: 78 file(s) [attempted 78/2331 = 3%]
+Downloaded: 80 file(s) [attempted 80/2331 = 3%]
+Downloaded: 83 file(s) [attempted 83/2331 = 3%]
+Downloaded: 85 file(s) [attempted 85/2331 = 3%]
+Downloaded: 87 file(s) [attempted 87/2331 = 3%]
+Downloaded: 90 file(s) [attempted 90/2331 = 3%]
+Downloaded: 94 file(s) [attempted 94/2331 = 4%]
+Downloaded: 97 file(s) [attempted 97/2331 = 4%]
+Downloaded: 99 file(s) [attempted 99/2331 = 4%]
+Downloaded: 101 file(s) [attempted 101/2331 = 4%]
+Downloaded: 104 file(s) [attempted 104/2331 = 4%]
+Downloaded: 106 file(s) [attempted 106/2331 = 4%]
+Downloaded: 108 file(s) [attempted 108/2331 = 4%]
+Downloaded: 111 file(s) [attempted 111/2331 = 4%]
+Downloaded: 113 file(s) [attempted 113/2331 = 4%]
+Downloaded: 115 file(s) [attempted 115/2331 = 4%]
+Downloaded: 118 file(s) [attempted 118/2331 = 5%]
+Downloaded: 120 file(s) [attempted 120/2331 = 5%]
+Downloaded: 122 file(s) [attempted 122/2331 = 5%]
+Downloaded: 125 file(s) [attempted 125/2331 = 5%]
+Downloaded: 127 file(s) [attempted 127/2331 = 5%]
+Downloaded: 129 file(s) [attempted 129/2331 = 5%]
+Downloaded: 132 file(s) [attempted 132/2331 = 5%]
+Downloaded: 134 file(s) [attempted 134/2331 = 5%]
+Downloaded: 136 file(s) [attempted 136/2331 = 5%]
+Downloaded: 139 file(s) [attempted 139/2331 = 5%]
+Downloaded: 141 file(s) [attempted 141/2331 = 6%]
+Downloaded: 143 file(s) [attempted 143/2331 = 6%]
+Downloaded: 146 file(s) [attempted 146/2331 = 6%]
+Downloaded: 148 file(s) [attempted 148/2331 = 6%]
+Downloaded: 150 file(s) [attempted 150/2331 = 6%]
+Downloaded: 153 file(s) [attempted 153/2331 = 6%]
+Downloaded: 155 file(s) [attempted 155/2331 = 6%]
+Downloaded: 157 file(s) [attempted 157/2331 = 6%]
+Downloaded: 160 file(s) [attempted 160/2331 = 6%]
+Downloaded: 162 file(s) [attempted 162/2331 = 6%]
+Downloaded: 164 file(s) [attempted 164/2331 = 7%]
+Downloaded: 167 file(s) [attempted 167/2331 = 7%]
+Downloaded: 169 file(s) [attempted 169/2331 = 7%]
+Downloaded: 171 file(s) [attempted 171/2331 = 7%]
+Downloaded: 174 file(s) [attempted 174/2331 = 7%]
+Downloaded: 176 file(s) [attempted 176/2331 = 7%]
+Downloaded: 178 file(s) [attempted 178/2331 = 7%]
+Downloaded: 181 file(s) [attempted 181/2331 = 7%]
+Downloaded: 183 file(s) [attempted 183/2331 = 7%]
+Downloaded: 185 file(s) [attempted 185/2331 = 7%]
+Downloaded: 188 file(s) [attempted 188/2331 = 8%]
+Downloaded: 190 file(s) [attempted 190/2331 = 8%]
+Downloaded: 192 file(s) [attempted 192/2331 = 8%]
+Downloaded: 195 file(s) [attempted 195/2331 = 8%]
+Downloaded: 197 file(s) [attempted 197/2331 = 8%]
+Downloaded: 200 file(s) [attempted 200/2331 = 8%]
+Downloaded: 202 file(s) [attempted 202/2331 = 8%]
+Downloaded: 204 file(s) [attempted 204/2331 = 8%]
+Downloaded: 207 file(s) [attempted 207/2331 = 8%]
+Downloaded: 209 file(s) [attempted 209/2331 = 8%]
+Downloaded: 211 file(s) [attempted 211/2331 = 9%]
+Downloaded: 214 file(s) [attempted 214/2331 = 9%]
+Downloaded: 216 file(s) [attempted 216/2331 = 9%]
+Downloaded: 218 file(s) [attempted 218/2331 = 9%]
+Downloaded: 221 file(s) [attempted 221/2331 = 9%]
+Downloaded: 223 file(s) [attempted 223/2331 = 9%]
+Downloaded: 225 file(s) [attempted 225/2331 = 9%]
+Downloaded: 228 file(s) [attempted 228/2331 = 9%]
+Downloaded: 230 file(s) [attempted 230/2331 = 9%]
+Downloaded: 232 file(s) [attempted 232/2331 = 9%]
+Downloaded: 235 file(s) [attempted 235/2331 = 10%]
+Downloaded: 237 file(s) [attempted 237/2331 = 10%]
+Downloaded: 239 file(s) [attempted 239/2331 = 10%]
+Downloaded: 242 file(s) [attempted 242/2331 = 10%]
+Downloaded: 244 file(s) [attempted 244/2331 = 10%]
+Downloaded: 246 file(s) [attempted 246/2331 = 10%]
+Downloaded: 249 file(s) [attempted 249/2331 = 10%]
+Downloaded: 251 file(s) [attempted 251/2331 = 10%]
+Downloaded: 253 file(s) [attempted 253/2331 = 10%]
+Downloaded: 256 file(s) [attempted 256/2331 = 10%]
+Downloaded: 258 file(s) [attempted 258/2331 = 11%]
+Downloaded: 260 file(s) [attempted 260/2331 = 11%]
+Downloaded: 263 file(s) [attempted 263/2331 = 11%]
+Downloaded: 265 file(s) [attempted 265/2331 = 11%]
+Downloaded: 267 file(s) [attempted 267/2331 = 11%]
+Downloaded: 270 file(s) [attempted 270/2331 = 11%]
+Downloaded: 272 file(s) [attempted 272/2331 = 11%]
+Downloaded: 274 file(s) [attempted 274/2331 = 11%]
+Downloaded: 277 file(s) [attempted 277/2331 = 11%]
+Downloaded: 279 file(s) [attempted 279/2331 = 11%]
+Downloaded: 281 file(s) [attempted 281/2331 = 12%]
+Downloaded: 284 file(s) [attempted 284/2331 = 12%]
+Downloaded: 286 file(s) [attempted 286/2331 = 12%]
+Downloaded: 288 file(s) [attempted 288/2331 = 12%]

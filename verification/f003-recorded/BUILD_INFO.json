@@ -1,0 +1,24 @@
+{
+  "status": "complete_main_upper_bound_formalization",
+  "release": "F003",
+  "source_revision": "R006",
+  "checked_at_utc": "2026-09-21T12:10:02.908101+00:00",
+  "lean_version": "4.19.0",
+  "lean_commit": "6caaee842e94",
+  "mathlib_commit": "c44e0c8ee63ca166450922a373c7409c5d26b00b",
+  "theorems_audited": 114,
+  "clean_project_build": true,
+  "main_upper_bound_proved": true,
+  "ordinary_chromatic_limsup_proved": true,
+  "constant": "40 * Real.exp 1 + 1",
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "source_archive_sha256": "4f5520ad02c270b6bb2e40f095acc479c9c1ddd2ed121e27a1ca6c64ba651000",
+  "scope": "Full Theorem 1 main upper bound and root-limsup consequence, via enclosing-ball and finite-product proof. Refined spherical-moment and optimal-density appendix results are outside this completeness claim.",
+  "proof_note_pages": 6,
+  "proof_note_visual_review_passed": true,
+  "proof_note_sha256": "cc5af36ec8e22e19cdfb652bc672d1e8b0854f5566aa006038ac1a757c4c7c58"
+}

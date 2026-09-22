@@ -1,0 +1,129 @@
+{
+  "checked_at_utc": "2026-09-21T13:48:01.073066+00:00",
+  "status": "passed",
+  "clean_project_build": true,
+  "forced_source_modules": [
+    "Hoffman.Geometry",
+    "Hoffman.Planar",
+    "Hoffman.Net",
+    "Hoffman.PoissonSeries",
+    "Hoffman.MomentPolynomial",
+    "Hoffman.Targets",
+    "Hoffman.CoveringEstimate",
+    "Hoffman.ExclusionBall",
+    "Hoffman.ExclusionVolume",
+    "Hoffman.ProbabilityCover",
+    "Hoffman.PeriodicCover",
+    "Hoffman.RandomSurvival",
+    "Hoffman.Torus",
+    "Hoffman.RandomCover",
+    "Hoffman.PeriodicCores",
+    "Hoffman.TorusRandom",
+    "Hoffman.TorusNet",
+    "Hoffman.FiniteUpperBound",
+    "Hoffman.AsymptoticEstimate",
+    "Hoffman.Main",
+    "Hoffman.Chromatic",
+    "Hoffman.Semantics",
+    "Hoffman"
+  ],
+  "logical_declarations": 229,
+  "kernel_rechecked_theorem_declarations": 188,
+  "compiler_runtime_auxiliaries": 14,
+  "permitted_axioms": [
+    "propext",
+    "Classical.choice",
+    "Quot.sound"
+  ],
+  "environment": {
+    "lean_toolchain": "leanprover/lean4:v4.19.0",
+    "lean_version": "Lean (version 4.19.0, x86_64-unknown-linux-gnu, commit 6caaee842e94, Release)",
+    "python_version": "3.12.14",
+    "dependency_lock_sha256": "7eec6ce822a24aa7de2202e711110f78933ba0fffba1ad9492554581ea27faa5",
+    "packages": [
+      {
+        "name": "plausible",
+        "revision": "77e08eddc486491d7b9e470926b3dbe50319451a",
+        "clean": true
+      },
+      {
+        "name": "LeanSearchClient",
+        "revision": "25078369972d295301f5a1e53c3e5850cf6d9d4c",
+        "clean": true
+      },
+      {
+        "name": "importGraph",
+        "revision": "e6a9f0f5ee3ccf7443a0070f92b62f8db12ae82b",
+        "clean": true
+      },
+      {
+        "name": "proofwidgets",
+        "revision": "c4919189477c3221e6a204008998b0d724f49904",
+        "clean": true
+      },
+      {
+        "name": "aesop",
+        "revision": "5d50b08dedd7d69b3d9b3176e0d58a23af228884",
+        "clean": true
+      },
+      {
+        "name": "Qq",
+        "revision": "fa4f7f15d97591a9cf3aa7724ba371c7fc6dda02",
+        "clean": true
+      },
+      {
+        "name": "batteries",
+        "revision": "f5d04a9c4973d401c8c92500711518f7c656f034",
+        "clean": true
+      },
+      {
+        "name": "Cli",
+        "revision": "02dbd02bc00ec4916e99b04b2245b30200e200d0",
+        "clean": true
+      },
+      {
+        "name": "mathlib",
+        "revision": "c44e0c8ee63ca166450922a373c7409c5d26b00b",
+        "clean": true
+      }
+    ]
+  },
+  "source_sha256": {
+    "Hoffman.lean": "82a0816ec79a6d81a139cf367c3bb70b4e687a834db5a1eafd6181847e492127",
+    "Hoffman/AsymptoticEstimate.lean": "7ae7a54a9d2129197b56ac8dfa38f5d4171aa61071bf92937253342db50b328b",
+    "Hoffman/Chromatic.lean": "e71bdc11d9c9afa58bf27abd9301acb20f04ebcd8258a32ac08a85ce48c79b7a",
+    "Hoffman/CoveringEstimate.lean": "8e69ed60025992d290ccee28f8e301b0c52f9552b92ff17722640d43e3942101",
+    "Hoffman/ExclusionBall.lean": "a53d461038a2415cb0c50f4fb0524438d9b052f508f7aa8948dd2467a7337fc9",
+    "Hoffman/ExclusionVolume.lean": "415cebfdc617618a073d23e10f25ec3e85265517831647f467d7ea1d3daeb50c",
+    "Hoffman/FiniteUpperBound.lean": "64310914d44b5eb2822db62d786387eaac6debb6c0a760d126addcfd32f6b2b1",
+    "Hoffman/Geometry.lean": "a3d83b67dbfb0ddc9e6c52f36f4f9f4b46533cad76b19087f9afa5636c439352",
+    "Hoffman/Main.lean": "546cfc5998c579429ca6a90ff1d42a10243291e1fa4be6970b4b16c3f0ad1b4e",
+    "Hoffman/MomentPolynomial.lean": "26f10f3925f7660cef34df15d78168264abd24ca4728f8dd0ee23a034c8d6653",
+    "Hoffman/Net.lean": "af73fe9c0fb95a9d7d33f91c89d23c3eb41ef0be06219d5b38653c06a1dd9241",
+    "Hoffman/PeriodicCores.lean": "9e5787691362fa3af1d81252cb5d56e01a7bb874eca519cfd354433377094895",
+    "Hoffman/PeriodicCover.lean": "8303f04cdc3bae662bd16329d8f8fcf336ca68cf281f7162ff909e7b9faaa74f",
+    "Hoffman/Planar.lean": "7d3957992119b1b3c0790fd7b0b070369d734ec17a86dbd4c7c3b31479575174",
+    "Hoffman/PoissonSeries.lean": "55226075294e24a190a67359a5b4b955bae7d009dfd646d10775b1733173ec23",
+    "Hoffman/ProbabilityCover.lean": "59ef435558bbb6b580604e0dd18455108bd7d497c1bea67c24351f209c99bc49",
+    "Hoffman/RandomCover.lean": "4a529b580ee843fef0fe1f9da983b57a5ff6fe9d3c8a5b5d2a7bd54c13daa861",
+    "Hoffman/RandomSurvival.lean": "87f3318926fe0c3794951fe9ae2191435949adc21744b7d9b5534d40e9bc2e8f",
+    "Hoffman/Semantics.lean": "4d48d99f862f819b42a5d59545f846f54852bc3fe2124a3b1094ab2e5c7d0c4e",
+    "Hoffman/Targets.lean": "1eb1ed3e534067a90890ef5eafae983a6b2a10d898290e5f0f02dca51d0738cd",
+    "Hoffman/Torus.lean": "3f14335b92329d0b09dbe9aa5fda2f42b106e092aa89b2ec5cdad91b751e1687",
+    "Hoffman/TorusNet.lean": "1d7f080e9c656e87cd84b892fffbbea9b67b7870151d7b7eaae3430898bd2b06",
+    "Hoffman/TorusRandom.lean": "9baf18fa456518662c249814c6734ad9bcb66d50ed61ce52ca5d4605bbee58d5",
+    "CompiledAudit.lean": "13691d145ffc0f21b00902b5afdbcc912c4642f5a952c5f5166a19541c0fe158",
+    "AxiomAudit.lean": "aae84c225bc144cb32122ed1eca2b3791ee2ee7f3b83b9cd821b3a77b23539ac",
+    "verify.sh": "c4bae0ac9c37daa240beeebd7c95327bd6eec28fa8187c4b14247c0ae7913e62",
+    "scripts/audit.py": "4904e7a369e8c744fdbe997b9a7dfdf93946abc89e2623ed1c6db7f799c9fb5c",
+    "scripts/build_proof_note.py": "7173e06f6a1a417e98ac1215fe6a8a6e72b05c14bc44a2586af7cde27fbb12e1",
+    "scripts/check_environment.py": "a00f802ab5f90c24adba9a833ac81b4e7907f2f5929af45fdb85b268ddb5c6f5",
+    "scripts/fetch_cache.py": "6d9fb3f96025e3346e9ccc1ac94fbf31bc8bd9e93e83b281f22ba29b96e485da",
+    "scripts/recheck_sources.py": "a218a9170db9a5f8bf93cf51a6e28c20705a287d1aa75ee51947ffee196e5cb9",
+    "scripts/record_verification.py": "57a15a1436911c094d6c6a60396f06c0204a905e5af87260c69d7e66ffda80c6",
+    "scripts/test_audit_guards.py": "079dbff2223a31670b3c65868c545eee48b8752c39e7af448c878454eeec10d5",
+    "lean-toolchain": "55e97be96000b5e9e290c9e74482e5e317861499a5540353ce845471bded8cea",
+    "lakefile.toml": "e21360a6fa9c4e2ce3ca32021fbe27a1da456ca447f2e7e0094090588b9825dd",
+    "lake-manifest.json": "7eec6ce822a24aa7de2202e711110f78933ba0fffba1ad9492554581ea27faa5"
+  }
+}
